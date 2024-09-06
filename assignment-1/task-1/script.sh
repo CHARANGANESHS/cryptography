@@ -18,6 +18,7 @@ $CXX -std=c++17 \
     $SRC_DIR/plain.cpp \
     $SRC_DIR/cipher.cpp \
     $SRC_DIR/vigenere.cpp \
+    $SRC_DIR/playfair.cpp \
 
 if [ $? -eq 0 ]; then
     echo "Compilation successful."

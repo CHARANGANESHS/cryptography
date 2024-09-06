@@ -2,13 +2,14 @@
 #include "include/cipher.hpp"
 #include "include/vigenere.hpp"
 #include "include/plain.hpp"
+#include "include/playfair.hpp"
 #include "include/writefile.hpp"
 using namespace std;
 
 
 int main(void){
     string filename = "process.txt";
-    cout << "\n1. Cipher\t2. Vigenere\t3. Plain\n\n";
+    cout << "\n1. Cipher\t2. Vigenere\t3. PlayFair\n\n";
 
     cout << "Choose the type of encryption: \n";
     int choice;
@@ -83,8 +84,8 @@ int main(void){
             string key;
             cout << "Enter the key: ";
             cin >> key;
-            Plain plain(filename, key);
-            string output = plain.encrypt();
+            PlayFair playfair(filename, key);
+            string output = playfair.encrypt();
             cout << output << endl;
             WriteFile file(filename);
             file.write(output);
@@ -93,8 +94,8 @@ int main(void){
             string key;
             cout << "Enter the key: ";
             cin >> key;
-            Plain plain(filename, key);
-            string output = plain.decrypt();
+            PlayFair playfair(filename, key);
+            string output = playfair.decrypt();
             cout << output << endl;
             WriteFile file(filename);
             file.write(output);
