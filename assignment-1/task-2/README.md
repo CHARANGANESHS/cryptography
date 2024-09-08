@@ -10,4 +10,4 @@ Similarly, to run task 2.2, you can execute the `script2.sh` file. Again, naviga
 ./script2.sh
 ```
 
-Make sure you have the necessary permissions to execute the scripts. If not, you can use the `chmod` command to grant the execute permission.
+Make sure you have the necessary permissions to execute the scripts. If not, you can use the `chmod u+x {filename}` command to grant the execute permission.
