@@ -1,0 +1,198 @@
+Run 1:
+Testing seed 10:
+ 1. Chi-square
+    Statistic = 976.8000000000001
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.12867935673325404
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 2:
+Testing seed 202:
+ 1. Chi-square
+    Statistic = 877.2000000000011
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.1099319117154749
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 3:
+Testing seed 303:
+ 1. Chi-square
+    Statistic = 1003.599999999999
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.14141392477830195
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 4:
+Testing seed 404:
+ 1. Chi-square
+    Statistic = 1070.3999999999996
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.09557203277689719
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 5:
+Testing seed 505:
+ 1. Chi-square
+    Statistic = 957.600000000001
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.1554432162174184
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 6:
+Testing seed 606:
+ 1. Chi-square
+    Statistic = 985.6000000000005
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.11788136360729105
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 7:
+Testing seed 707:
+ 1. Chi-square
+    Statistic = 978.7999999999993
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.1500786047039122
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 8:
+Testing seed 808:
+ 1. Chi-square
+    Statistic = 984.3999999999996
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.08629232907240558
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 9:
+Testing seed 909:
+ 1. Chi-square
+    Statistic = 985.2000000000011
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.24074325792163553
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 10:
+Testing seed 1001:
+ 1. Chi-square
+    Statistic = 1015.5999999999992
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.11386137819794107
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 11:
+Testing seed 1102:
+ 1. Chi-square
+    Statistic = 1010.8000000000006
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.12566088527944438
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 12:
+Testing seed 1203:
+ 1. Chi-square
+    Statistic = 1018.4000000000008
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.08512581560603338
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+Run 13:
+Testing seed 1304:
+ 1. Chi-square
+    Statistic = 1061.1999999999982
+    Critical Value at 95% = 1073.64
+    Conclusion(95%): Random (Accept)
+
+ 2. Kolmogorov-Smirnov
+    Statistic = 0.05829270921579899
+    Critical value at 95% = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+    Critical value at 99% confidence = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+
+--------------------------------------------------
+
+Kernel Version: 24.0.0
+OS Version: macOS-10.16-x86_64-i386-64bit

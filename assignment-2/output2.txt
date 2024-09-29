@@ -1,0 +1,210 @@
+1. Chi-square test
+    Testing seed -> 10
+    Statistic = 980.3999999999997
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 10
+    Statistic = 0.11498467639589749
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 202
+    Statistic = 1041.6000000000004
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 202
+    Statistic = 0.1282445144390879
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 303
+    Statistic = 1024.0000000000011
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 303
+    Statistic = 0.13248318039971102
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 404
+    Statistic = 1025.600000000001
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 404
+    Statistic = 0.22093700909662817
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 505
+    Statistic = 931.1999999999989
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 505
+    Statistic = 0.17192344718325203
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 606
+    Statistic = 974.7999999999992
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 606
+    Statistic = 0.1509338850038865
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 707
+    Statistic = 1057.9999999999993
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 707
+    Statistic = 0.17539039846128146
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 808
+    Statistic = 1037.200000000001
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 808
+    Statistic = 0.12552721900681907
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 909
+    Statistic = 983.2000000000012
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 909
+    Statistic = 0.056794736840371285
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 1001
+    Statistic = 1047.9999999999998
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 1001
+    Statistic = 0.12692156346199918
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 1102
+    Statistic = 931.6
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 1102
+    Statistic = 0.12178144484728526
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 1203
+    Statistic = 949.6000000000006
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 1203
+    Statistic = 0.10747202187196758
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+1. Chi-square test
+    Testing seed -> 1304
+    Statistic = 1030.8
+    Chi-square critical value(95%) = 1073.64
+    Conclusion(95%): Random (Accept)
+
+2. KS test
+    Testing seed -> 1304
+    Statistic = 0.24352041175883976
+    KS critical value(95%) = 0.24830089273567532
+    Conclusion(95%): Random (Accept)
+
+    KS critical value(99%)  = 0.29759592291114023
+    Conclusion(99%): Random (Accept)
+--------------------------------------------------
+
+OS: Mac OS X
+Kernel Version: 15.0
